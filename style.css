@@ -1,0 +1,55 @@
+.jumbotron h1{
+    background-color: aqua;
+}
+
+nav > span{
+    color: red;
+}
+
+.col-md-8 h3 + div {
+    background-color: aqua;
+}
+
+.jumbotron p a {
+    background-color: blueviolet;
+}
+
+.blog-post h1 + p {
+    background-color: burlywood;
+}
+
+p ~ hr {
+    background-color: red;
+}
+
+nav span:nth-of-type(even){
+ color: blue;
+}
+
+.mb-0 li a {
+    color: brown;
+}
+
+a[ href = "#" ]{
+  color: r;
+}
+
+.blog-post ul li:nth-of-type(2){
+    color: red;
+}
+
+.blog-post:nth-of-type(2) a[href='#'] {
+    color: red; 
+}
+
+body > a {
+    background-color: aqua;
+}
+
+a[ aria-disabled = "true"] {
+    color: blue;
+}
+
+footer p a:nth-last-of-type(1) {
+    background-color: aquamarine;
+}
