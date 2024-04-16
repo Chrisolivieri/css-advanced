@@ -30,9 +30,6 @@ nav span:nth-of-type(even){
     color: brown;
 }
 
-a[ href = "#" ]{
-  color: r;
-}
 
 .blog-post ul li:nth-of-type(2){
     color: red;
