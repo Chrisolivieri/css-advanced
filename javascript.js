@@ -10,5 +10,16 @@ function cancellaContenuto(){
     contenuto2.innerHTML = " "
 }
  
+function mostraIacopo(){
+    alert("IACOPO")
+}
+
+function mostraMarco(){
+    alert ("MARCO")
+}
+
+function mostraChristian(){
+    alert("CHRISTIAN")
+}
 
 
